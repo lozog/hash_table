@@ -7,7 +7,6 @@ class HashTable:
 		self.size = size
 
 	# returns the hashed value of the item
-	# i.e. the index the item will be stored at
 	def __hash_val(self, item):
 		return hash(item) % self.size
 
