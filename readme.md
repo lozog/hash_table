@@ -1,3 +1,4 @@
 # Hash Tables
 
-Implementation of a hash table
+Two implementations of a hash table (for practice).  
+Each uses a different algorithm for collision handling - chaing and linear probing.
